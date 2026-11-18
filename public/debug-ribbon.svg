@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" fill="none">
+  <defs>
+    <linearGradient id="glass" x1="145" y1="85" x2="750" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f3d7ec"/><stop offset=".17" stop-color="#ac839f"/><stop offset=".34" stop-color="#f8e6f5"/><stop offset=".5" stop-color="#7d5d70"/><stop offset=".68" stop-color="#edd0e6"/><stop offset=".83" stop-color="#694b5c"/><stop offset="1" stop-color="#e9c9e3"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="170" y1="145" x2="780" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff5ff" stop-opacity=".84"/><stop offset=".25" stop-color="#f6dcf1" stop-opacity=".13"/><stop offset=".56" stop-color="#fff" stop-opacity=".8"/><stop offset=".78" stop-color="#d6aaca" stop-opacity=".13"/><stop offset="1" stop-color="#fff1ff" stop-opacity=".65"/>
+    </linearGradient>
+    <filter id="shadow" x="34" y="18" width="832" height="727" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <g opacity=".26" filter="url(#shadow)"><path d="M100 478C171 394 227 168 379 142c111-19 228 53 229 151 1 78-91 132-190 88-93-42-123-131-75-193 59-77 183-85 290-23 105 60 136 160 92 247-51 101-189 129-311 69-78-38-157-24-215 50-42 53-66 111-99 133" stroke="#f4c8eb" stroke-width="96" stroke-linecap="round"/></g>
+  <path d="M95 483C166 399 222 173 374 147c111-19 228 53 229 151 1 78-91 132-190 88-93-42-123-131-75-193 59-77 183-85 290-23 105 60 136 160 92 247-51 101-189 129-311 69-78-38-157-24-215 50-42 53-66 111-99 133" stroke="url(#glass)" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95 483C166 399 222 173 374 147c111-19 228 53 229 151 1 78-91 132-190 88-93-42-123-131-75-193 59-77 183-85 290-23 105 60 136 160 92 247-51 101-189 129-311 69-78-38-157-24-215 50-42 53-66 111-99 133" stroke="url(#shine)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" opacity=".82"/>
+  <path d="M151 489C215 402 259 218 382 193c76-15 152 32 155 91 2 44-49 75-105 48-47-24-59-70-32-107 42-58 131-57 216-8 73 42 101 107 69 169-34 66-126 83-206 43" stroke="#fff4ff" stroke-width="3" stroke-linecap="round" opacity=".76"/>
+  <path d="M389 147c80 36 105 91 88 137m119 52c-12 54-56 93-108 109m-62 22c-67-17-115-15-161 21" stroke="#fff4ff" stroke-width="2" stroke-linecap="round" opacity=".52"/>
+  <path d="M626 614c73-39 106-95 112-159M126 286c29-69 65-117 113-145" stroke="#f7dff4" stroke-width="1.5" opacity=".55"/>
+</svg>
